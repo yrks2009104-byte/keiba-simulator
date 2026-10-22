@@ -1,0 +1,8 @@
+{
+  "name": "KEIBA LAB",
+  "short_name": "KEIBA LAB",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07111e",
+  "theme_color": "#07111e"
+}
